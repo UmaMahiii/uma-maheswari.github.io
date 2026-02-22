@@ -1,5 +1,10 @@
-# 🌸 Uma Maheswari S 🌸
+<div align="center">
+
+# <b>🌸 Uma Maheswari S 🌸</b>
 ### `DevOps Engineer` · `Cloud Architect` · `Automation Enthusiast`
+
+
+
 
 [![Portfolio Live](https://img.shields.io/badge/🌸_Portfolio-Live-ff6eb4?style=for-the-badge&labelColor=0f0f1a)](https://umamaheswaridevops.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff6eb4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a)](https://linkedin.com/in/umamaheswariiis/)
@@ -10,6 +15,20 @@
 ---
 
 *Building production-grade pipelines · Automating everything · 99.5% uptime achieved*
+
+</div>
+
+---
+---
+
+<div align="center">
+
+### 🌸 Live Portfolio
+
+> **✦ Built with pink terminal aesthetics, cherry blossoms & a full CI/CD pipeline diagram ✦**
+
+[![🌸 Visit Now](https://img.shields.io/badge/🌸_VISIT_NOW-umamaheswaridevops.xyz-ff6eb4?style=for-the-badge&labelColor=0f0f1a)](https://umamaheswaridevops.xyz)
+[![Preview](https://img.shields.io/badge/Features-Cherry_Blossoms_·_Pipeline_·_Terminal-ffb3d9?style=for-the-badge&labelColor=0f0f1a)](https://umamaheswaridevops.xyz)
 
 </div>
 
