@@ -12,7 +12,7 @@
 # 🌸 Uma Maheswari S
 ### `DevOps Engineer` · `Cloud Architect` · `Automation Enthusiast`
 
-[![Portfolio Live](https://img.shields.io/badge/🌸_Portfolio-Live-ff6eb4?style=for-the-badge&labelColor=0f0f1a)](https://UmaMahiii.github.io)
+[![Portfolio Live](https://img.shields.io/badge/🌸_Portfolio-Live-ff6eb4?style=for-the-badge&labelColor=0f0f1a)](https://umamaheswaridevops.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff6eb4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a)](https://linkedin.com/in/umamaheswariiis/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-ff6eb4?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f1a)](https://github.com/UmaMahiii)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-ff6eb4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f1a)](mailto:umamaheswaris9074@gmail.com)
