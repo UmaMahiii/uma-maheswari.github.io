@@ -1,18 +1,4 @@
-<div align="center">
-```
-        🌸                                    🌸
-██╗   ██╗███╗   ███╗ █████╗
-██║   ██║████╗ ████║██╔══██╗
-██║   ██║██╔████╔██║███████║
-██║   ██║██║╚██╔╝██║██╔══██║
-╚██████╔╝██║ ╚═╝ ██║██║  ██║
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
-        🌸                                    🌸
-```
-
-</div>
-
-# 🌸 Uma Maheswari S
+# 🌸 Uma Maheswari S 🌸
 ### `DevOps Engineer` · `Cloud Architect` · `Automation Enthusiast`
 
 [![Portfolio Live](https://img.shields.io/badge/🌸_Portfolio-Live-ff6eb4?style=for-the-badge&labelColor=0f0f1a)](https://umamaheswaridevops.xyz)
